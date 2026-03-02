@@ -29,7 +29,7 @@ const renderProducts = async () => {
       const link = document.createElement('a')
       link.textContent = 'Read More >'
       link.href = `/products/${product.id}`
-      link.role = 'button'
+      // link.role = 'button'
       bottomContainer.appendChild(link)
 
       card.appendChild(topContainer)

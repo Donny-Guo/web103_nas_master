@@ -10,7 +10,7 @@ const renderProductDetails = async () => {
     if (product) {
       document.getElementById('image').src = product.image
       document.getElementById('name').textContent = product.title
-      document.getElementById('description').textContent = product.description
+      document.getElementById('description').textContent = "Decription: " + product.description
       document.getElementById('price').textContent = "Price: " + product.price
       document.getElementById('bays').textContent = "Bays: " + product.bays
       document.getElementById('processor').textContent = "Processor: " + product.processor
