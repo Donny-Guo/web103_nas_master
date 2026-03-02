@@ -19,7 +19,7 @@ app.use('/products', productRouter)
 
 // 404 route
 app.use((req, res) => {
-  res.status(400).sendFile(path.join(__dirname, 'public/404.html'))
+  res.status(404).sendFile(path.join(__dirname, 'public/404.html'))
   // res.status(400).send("404 not found")
 })
 
