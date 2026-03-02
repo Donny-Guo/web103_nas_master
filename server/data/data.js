@@ -49,7 +49,7 @@ const productData = [
   },
   {
     "id": 5,
-    "title": "Asustor LOCKERSTOR 4 Gen2 (AS6704T)",
+    "title": "Asustor LOCKERSTOR 4 Gen2",
     "description": "A high-performance 4-bay NAS with four M.2 NVMe slots, dual 2.5GbE ports expandable to 10GbE, HDMI 2.0b output, and a PCIe 3.0 expansion slot. Ideal for power users who need fast data transfers, media transcoding, and advanced app support with the ADM operating system.",
     "price": "$609.00",
     "bays": 4,
@@ -68,7 +68,7 @@ const productData = [
     "processor": "ARM Cortex-A55 Quad-Core (2.0 GHz)",
     "ram": "2 GB DDR4",
     "networking": "1x 1GbE RJ-45",
-    "image": "https://m.media-amazon.com/images/I/31hIDw2xP2L._AC_SL1320_.jpg",
+    "image": "https://static.bhphoto.com/images/multiple_images/images1000x1000/1654589725_IMG_1767916.jpg",
     "productUrl": "https://www.qnap.com/en-us/product/ts-233"
   }
 ]
