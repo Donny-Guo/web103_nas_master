@@ -8,7 +8,7 @@ const productData = [
     "processor": "Intel Celeron J4125 Quad-Core (2.0 / 2.7 GHz)",
     "ram": "2 GB DDR4 (expandable to 6 GB)",
     "networking": "2x 1GbE RJ-45",
-    "image": "",
+    "image": "https://www.synology.com/img/products/detail/DS224plus/heading.png",
     "productUrl": "https://www.synology.com/en-us/products/DS224+"
   },
   {
@@ -20,7 +20,7 @@ const productData = [
     "processor": "Intel Celeron N5095 Quad-Core (up to 2.9 GHz)",
     "ram": "8 GB DDR4 (expandable to 16 GB)",
     "networking": "2x 2.5GbE RJ-45",
-    "image": "",
+    "image": "https://www.qnap.com/uploads/images/product/expand-storage-capacity.jpg?v=720bf9684124452a96a196e831c4e05b",
     "productUrl": "https://www.qnap.com/en-us/product/ts-464"
   },
   {
@@ -32,7 +32,7 @@ const productData = [
     "processor": "AMD Ryzen V1500B Quad-Core (2.2 GHz)",
     "ram": "4 GB DDR4 ECC (expandable to 32 GB)",
     "networking": "2x 2.5GbE RJ-45",
-    "image": "",
+    "image": "https://www.synology.com/img/products/detail/DS925plus/heading.png",
     "productUrl": "https://www.synology.com/en-us/products/DS925+"
   },
   {
@@ -44,7 +44,7 @@ const productData = [
     "processor": "Intel N150 Quad-Core (1.0 GHz base / 3.6 GHz turbo)",
     "ram": "16 GB DDR5 (single SODIMM slot)",
     "networking": "2x 5GbE RJ-45",
-    "image": "",
+    "image": "https://www.terra-master.com/cdn/shop/files/F4-425_Plus_713cff33-1145-4287-94c0-63bc6e2386eb.jpg?v=1761268905&width=492",
     "productUrl": "https://www.terra-master.com/products/f4-425-plus"
   },
   {
@@ -56,8 +56,8 @@ const productData = [
     "processor": "Intel Celeron N5105 Quad-Core (2.0 / 2.9 GHz)",
     "ram": "4 GB DDR4 (expandable to 16 GB)",
     "networking": "2x 2.5GbE RJ-45",
-    "image": "",
-    "productUrl": "https://www.asustor.com/product/AS6704T"
+    "image": "https://www.asustor.com/images/feature/content_img/AS6704T/banner_model.png",
+    "productUrl": "https://www.asustor.com/en/product?p_id=77"
   },
   {
     "id": 6,
@@ -68,7 +68,7 @@ const productData = [
     "processor": "ARM Cortex-A55 Quad-Core (2.0 GHz)",
     "ram": "2 GB DDR4",
     "networking": "1x 1GbE RJ-45",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/31hIDw2xP2L._AC_SL1320_.jpg",
     "productUrl": "https://www.qnap.com/en-us/product/ts-233"
   }
 ]
