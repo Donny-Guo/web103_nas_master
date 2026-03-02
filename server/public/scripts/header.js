@@ -8,7 +8,7 @@ const headerRight = document.createElement('div')
 headerRight.className = 'header-right'
 
 const logo = document.createElement('img')
-logo.src = "/icon.png"
+logo.src = "/logo.png"
 logo.className = "logo"
 const headerTitle = document.createElement('h1')
 headerTitle.textContent = "NAS Master"
