@@ -137,3 +137,23 @@ main {
     box-shadow: inset -3px 0px 0px transparent;
   }
 }
+
+/* Detail Page CSS*/
+
+.product-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-container {
+  padding-left: 100px;
+  width: 40vw;
+}
+
+.image-container img {
+  width: 80%;
+}
+
+.product-details {
+  width: 45vw;
+}
